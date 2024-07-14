@@ -1,6 +1,6 @@
 Money Tracker is a web application for tracking users' income and expenses.
 
-* Features:
+* Features: 
 - Record financial transactions, view a list of transactions and filter by category
 - implement CRUD functions (Create, Read, Update, Delete).
 - Front-End: Built with ReactJS, TypeScript, and Next.js.

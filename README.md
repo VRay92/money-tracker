@@ -1,4 +1,4 @@
-Money Tracker is a web application for tracking users' income and expenses...
+Money Tracker is a web application for tracking users' income and expenses.
 
 * Features: 
 - Record financial transactions, view a list of transactions and filter by category
